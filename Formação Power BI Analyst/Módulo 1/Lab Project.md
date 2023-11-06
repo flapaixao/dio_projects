@@ -3,7 +3,8 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore
 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
 Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
 
-#Instruções para entrega
+## Instruções para entrega
+
 Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Github para ter acesso aos dados: 
 -	https://github.com/julianazanelatto/power_bi_analyst
   
@@ -13,7 +14,7 @@ Muito bem, a terceira página é composta por:
 -	Visual mapa 2: Soma de lucro (profit) por país 
 -	Visual de pizza: Lucro por segmento 
 
-# Além disso: 
+## Além disso: 
 -	Verifique a disposição dos visuais no relatório 
 -	Modifique os nomes dos visuais para algo mais claro e direto (de acordo com o contexto) 
 -	Preste atenção aos campos que são utilizados como dicas de ferramentas  
