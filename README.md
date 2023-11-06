@@ -15,13 +15,13 @@ Durante a Formação, você irá mergulhar na criação de visualizações perso
 - Course: Introdução a Análise de Dados com SQL (Basic)
 - Course: Fundamentos Teóricos Sobre ETL (Basic)
 - Course: Primeiros Passos com Power BI (Basic)
-- Lab Project: Analisando Dados com meu Primeiro Projeto no Power BI (Basic) | [Clique aqui para acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%201)
+- Lab Project: Analisando Dados com meu Primeiro Projeto no Power BI (Basic) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%201)
 
 ### Módulo 2 - Visualização de Dados e Relatórios com Power BI (Completed ✔️)
 - Course: Trabalhando com Visuais no Power BI (Intermediate)
 - Course: Fundamentos de BI: KPIs e Métricas (Intermediate)
 - Course: Criando Dashboard Interativos com Power BI (Intermediate)
-- Lab Project: Criando um Relatório de Vendas Elegante com Power BI (Intermediate) | [Clique aqui para acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%202)
+- Lab Project: Criando um Relatório de Vendas Elegante com Power BI (Intermediate) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%202)
 
 ### Módulo 3 - Processamento de Dados com Power BI (Completed ✔️)
 - Course: Coleta e Extração de Dados com Power BI (Intermediate)
@@ -34,14 +34,14 @@ Durante a Formação, você irá mergulhar na criação de visualizações perso
 - Course: Primeiros passos com DAX e Cálculos com Power BI (Intermediate)
 - Course: Otimização de Modelo de Dados com Foco em Desempenho no Power BI (Intermediate)
 - Lab Project: Criando um Star Schema para Cenários de Vendas com Power BI (Intermediate)
-- Lab Project: Modelagem e Transformação de dados com DAX com Power BI (Intermediate) | [Clique aqui para acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%204)
+- Lab Project: Modelagem e Transformação de dados com DAX com Power BI (Intermediate) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%204)
 
 ### Módulo 5 - Data Analytics & Storytelling com Power BI (On going ⌛)
 - Course: Relatórios & Experiência do Usuário no Power BI (Advanced)
 - Course: Explorando Recursos para criar Storytelling dos dados com Power BI (Advanced)
 - Course: Fundamentos de Data Analytics com Power BI (Advanced)
 - Lab Project: Atualizando Relatório no Power BI com Foco na Experiência do Usuário (Advanced)
-- Lab Project: Projeto de Data Analytics com Power BI (Advanced) | [Clique aqui para acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%205)
+- Lab Project: Projeto de Data Analytics com Power BI (Advanced) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%205)
 
 
 ### Módulo 6 - Visualização de Dados e Relatórios com Power BI (Not Started ⌛)
