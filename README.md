@@ -1,3 +1,3 @@
-# DIO - Formação Power BI Analyst
+# DIO 
 
-Repositorio dos Projetos da Formacao Power BI Analyst
+Repositorio dos Projetos dos cursos feitos na DIO.
