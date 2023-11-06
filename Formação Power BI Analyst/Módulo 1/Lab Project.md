@@ -20,4 +20,3 @@ Muito bem, a terceira página é composta por:
 -	Compartilhe como suplemento no Power Point 
 -	Caso não tenha Power Point, salve o projeto de Power BI  
 
-
