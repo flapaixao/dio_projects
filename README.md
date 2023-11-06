@@ -1,4 +1,6 @@
-- Course: # DIO - Formação Power BI Analyst 
+# DIO - Formação Power BI Analyst 
+
+![power bi analyst](https://github.com/flapaixao/dio_projects/assets/144342171/6ef93d7b-f47f-42e7-8440-92626a930417)
 
 ## About
 
