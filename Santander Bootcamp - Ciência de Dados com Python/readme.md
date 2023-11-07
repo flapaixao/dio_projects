@@ -1,1 +1,3 @@
-O curso foi concluido mas o Repositório em construção... em breve termino de fazer o upload.
+O curso foi concluido antes da criação do repositório.
+
+Em breve atualizarei com os projetos que fiz.
