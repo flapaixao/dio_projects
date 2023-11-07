@@ -7,9 +7,9 @@ A partir de Desafios de Código e Desafios de Projeto, você terá uma imersão 
 
 ## Ementa
 
-- Módulo 1 - Introdução à Lógica de Programação
-- Módulo 2 - Explorando Operadores
-- Módulo 3 - Dominando Estruturas de Controle
-- Módulo 4 - Trabalhando com Funções
-- Módulo 5 - Refinando Sua Técnica com Desafios de Código Básicos em Lógica
-- Módulo 6 - Estruturas de Dados e Objetos 
+- Módulo 1 - Introdução à Lógica de Programação | Completed ✔️
+- Módulo 2 - Explorando Operadores | On going ⌛
+- Módulo 3 - Dominando Estruturas de Controle | Not Started ⌛
+- Módulo 4 - Trabalhando com Funções | Not Started ⌛
+- Módulo 5 - Refinando Sua Técnica com Desafios de Código Básicos em Lógica | Not Started ⌛
+- Módulo 6 - Estruturas de Dados e Objetos | Not Started ⌛
