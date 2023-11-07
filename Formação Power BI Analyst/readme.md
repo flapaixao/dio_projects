@@ -10,25 +10,25 @@ Durante a Formação, você irá mergulhar na criação de visualizações perso
 
 ## Ementa
 
-### Módulo 1 - Fundamentos de Análise de Dados e BI (Completed ✔️)
+### Módulo 1 - Fundamentos de Análise de Dados e BI
 - Course: Fundamentos de Business Intelligence (BI) (Basic)
 - Course: Introdução a Análise de Dados com SQL (Basic)
 - Course: Fundamentos Teóricos Sobre ETL (Basic)
 - Course: Primeiros Passos com Power BI (Basic)
 - Lab Project: Analisando Dados com meu Primeiro Projeto no Power BI (Basic) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%201)
 
-### Módulo 2 - Visualização de Dados e Relatórios com Power BI (Completed ✔️)
+### Módulo 2 - Visualização de Dados e Relatórios com Power BI
 - Course: Trabalhando com Visuais no Power BI (Intermediate)
 - Course: Fundamentos de BI: KPIs e Métricas (Intermediate)
 - Course: Criando Dashboard Interativos com Power BI (Intermediate)
 - Lab Project: Criando um Relatório de Vendas Elegante com Power BI (Intermediate) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%202)
 
-### Módulo 3 - Processamento de Dados com Power BI (Completed ✔️)
+### Módulo 3 - Processamento de Dados com Power BI 
 - Course: Coleta e Extração de Dados com Power BI (Intermediate)
 - Course: Limpeza e Transformação de Dados com Power BI (Intermediate)
 - Lab Project: Processando e Transformando Dados com Power BI (Intermediate)
 
-### Módulo 4 - Modelagem de Dados com Power BI (Completed ✔️)
+### Módulo 4 - Modelagem de Dados com Power BI
 - Course: Fundamentos de Modelagem Dimensional (Intermediate)
 - Course: Modelagem de Dados no Power BI (Intermediate)
 - Course: Primeiros passos com DAX e Cálculos com Power BI (Intermediate)
@@ -36,7 +36,7 @@ Durante a Formação, você irá mergulhar na criação de visualizações perso
 - Lab Project: Criando um Star Schema para Cenários de Vendas com Power BI (Intermediate)
 - Lab Project: Modelagem e Transformação de dados com DAX com Power BI (Intermediate) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%204)
 
-### Módulo 5 - Data Analytics & Storytelling com Power BI (On going ⌛)
+### Módulo 5 - Data Analytics & Storytelling com Power BI
 - Course: Relatórios & Experiência do Usuário no Power BI (Advanced)
 - Course: Explorando Recursos para criar Storytelling dos dados com Power BI (Advanced)
 - Course: Fundamentos de Data Analytics com Power BI (Advanced)
@@ -44,7 +44,7 @@ Durante a Formação, você irá mergulhar na criação de visualizações perso
 - Lab Project: Projeto de Data Analytics com Power BI (Advanced) | [Acessar o Projeto](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst/M%C3%B3dulo%205)
 
 
-### Módulo 6 - Visualização de Dados e Relatórios com Power BI (Not Started ⌛)
+### Módulo 6 - Visualização de Dados e Relatórios com Power BI
 - Course: Gerenciamento de Workspaces com Power BI (Advanced)
 - Course: Gerenciamento de Datasets com Power BI (Advanced)
 - Lab Project: Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI (Advanced)
