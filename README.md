@@ -2,4 +2,4 @@
 
 - Bootcamp Ciência de Dados com Python | Completed ✔️
 - Formação Power BI Analyst  | Completed ✔️
-- Lógica de Programação | On going ⌛
+- Formação Lógica de Programação | On going ⌛
