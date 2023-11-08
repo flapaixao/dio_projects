@@ -1,4 +1,4 @@
-// O Aritiméticos
+// OPERADORES ARITMETICOS
 
 let idade = 30
 console.log(idade)
@@ -65,3 +65,63 @@ let preco = 10
 preco += 4
 
 console.log(preco)
+
+___________________________________________________________________________
+// OPERADORES DE COMPARAÇÃO
+
+// = é atribuição
+// == é para comparar o valor
+// === é para comparar o valor e o formato do conteudo
+// !== é diferente
+
+let numero = "1"
+console.log(numero == 1)
+
+numero = "1"
+console.log(numero === 1)
+
+let marca = "Apple"
+console.log(marca !== "Samsung")
+
+// Guardar o valor em uma variável de resultado TRUE?FALSE
+let marca = "Apple"
+let resultado = marca === "Samsung"
+
+console.log(resultado)
+
+// Guardar o valor em uma variável de resultado TRUE?FALSE
+let cpfBloqueado = "123.445.222-45"
+let cpfUsuario = "222.111.222-09"
+let ehCPFBloqueado = cpfUsuario === cpfBloqueado
+
+console.log("O usuario está barrado? " + ehCPFBloqueado)
+
+// Guardar o valor em uma variável de resultado TRUE?FALSE
+let CPFPermitido = "222.555.333-01"
+let CPFDoUsuario = "222.555.333-01"
+let ehBloqueado = CPFDoUsuario !== CPFPermitido
+
+console.log("É um usuario invalido? " + ehBloqueado)
+
+// Operador de Maior e menor
+let idadeMinima = 18
+let idadeUsuario = 18
+let idadePermitidaValida = idadeUsuario >= idadeMinima
+
+console.log(idadePermitidaValida)
+
+let idadeDeCorte = 50
+let idadeUsuario = 45
+let resultadoEhTerceiraIdade = idadeDeCorte < idadeUsuario
+
+console.log(resultadoEhTerceiraIdade)
+
+let idadeDeCorte = 50
+let idadeUsuario = 55
+let resultadoEhTerceiraIdade = idadeDeCorte < idadeUsuario
+
+console.log(resultadoEhTerceiraIdade)
+
+
+
+
