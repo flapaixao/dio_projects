@@ -60,4 +60,8 @@ contador--
 
 console.log(contador)
 
-// Calcular 
+// Calcular e Atribuir
+let preco = 10
+preco += 4
+
+console.log(preco)
