@@ -19,4 +19,4 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | ------- | ----- |
 | Espada 200 / 300 / | Tipo: Espada / Dano: 200 / Resistencia: 300 / Dano em combate: 200 |
 | Cajado 600 | 800	Tipo: Cajado / Dano: 600 / Resistencia: 800 / Dano em combate: 600 |
-| Arco 900 / 500	Tipo: Arco /Dano: 900 / Resistencia: 500 / Dano em combate: 900 |
+| Arco 900 / 500 | Tipo: Arco /Dano: 900 / Resistencia: 500 / Dano em combate: 900 |
