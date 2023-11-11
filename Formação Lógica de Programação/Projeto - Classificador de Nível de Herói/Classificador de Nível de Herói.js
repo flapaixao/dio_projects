@@ -17,6 +17,7 @@ let nivelHeroi = [" ", " ", " ", " ", " ", " ", " ", " "]
 
 // Laço de repetição
 for(let i = 0; i < nomeHeroi.length; i++){
+    
     let nome = nomeHeroi[i]
     let xp = xpHeroi[i]
     let nivel = nivelHeroi[i]
