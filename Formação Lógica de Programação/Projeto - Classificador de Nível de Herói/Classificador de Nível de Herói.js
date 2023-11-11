@@ -17,36 +17,35 @@ let nivelHeroi = [" ", " ", " ", " ", " ", " ", " ", " "]
 
 // Laço de repetição
 for(let i = 0; i < nomeHeroi.length; i++){
-
-		let nome = nomeHeroi[i]
-		let xp = xpHeroi[i]
-		let nivel = nivelHeroi[i]
+    let nome = nomeHeroi[i]
+    let xp = xpHeroi[i]
+    let nivel = nivelHeroi[i]
 
 // Inicio
 
     if (xp < 1000){
-     		nivel = NivelUm
+     	nivel = NivelUm
 
     } else if (xp >= 1001 && xp <= 2000){
-    	  nivel = NivelDois
+    	nivel = NivelDois
 
     } else if (xp >= 2001 && xp <= 5000){
-    		nivel = NivelTres
+    	nivel = NivelTres
 
     } else if (xp >= 6001 && xp <= 7000){
       	nivel = NivelQuatro
 
     } else if (xp >= 7001 && xp <= 8000){
-    	  nivel = NivelCinco
+    	nivel = NivelCinco
 
     } else if (xp >= 8001 && xp <= 9000){
-     	 	nivel = NivelSeis
+     	 nivel = NivelSeis
 
     } else if (xp >= 9001 && xp <= 10000){
     	  nivel = NivelSete
 
     } else {
-     	 	nivel = NivelOito
+     	nivel = NivelOito
     }
  
 // Saída 
