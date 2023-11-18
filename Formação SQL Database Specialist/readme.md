@@ -5,8 +5,8 @@ Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de
 
 ## Ementa
 
-- [ ] Módulo 1 - Fundamentos de Banco de Dados
-- [ ] Módulo 2 - Modelo de Entidade Relacional com Banco De Dados
+- [x] Módulo 1 - Fundamentos de Banco de Dados
+- [x] Módulo 2 - Modelo de Entidade Relacional com Banco De Dados
 - [ ] Módulo 3 - Explorando a Linguagem de Consulta a Banco de Dados SQL
 - [ ] Módulo 4 - Técnicas Avançadas em Banco de Dados com MySQL
 - [ ] Módulo 5 - Transações & Gerenciamento de Banco De Dados Com no MySQL
